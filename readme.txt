@@ -1,4 +1,4 @@
-=== Vertical Carousel slider ===
+=== Vertical Carousel===
 Tags: vertical, vertical slider, clients slider, clients carousel, testimonial slider, vertical-carousel, clients-plugin, carousel-plugin,   client slider,  carousel,  logo, logo slider, logo carousel, carousel slider.
 Contributors: amu02aftab
 Author: amu02aftab
