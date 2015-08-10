@@ -16,9 +16,7 @@ Using shortcode ['vertical-carousel-slider'] , we can show carousel slider on pa
 
 * Simple and light weight
 * Shortcode based
-* Having different settings in admin
 * Ability to add  links to each image
-* Auto slide option
 * Easy to customize
 * Looks cool :).
 == Screenshots ==
