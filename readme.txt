@@ -39,11 +39,11 @@ This is first version no known notices yet
 1. Upload the folder "wp-vertical-carousel-slider" to "/wp-content/plugins/" '
 2. Activate the plugin through the "Plugins" menu in WordPress .
 3. Add carousel image going to wp-admin->Vertical Carousel->Add New Image.
-6. Call shortcode to your wordpress editor directly by using 
+6. Call shortcode to your wordpress editor directly , by using 
 `
 [vertical-carousel-slider]
 `
-Call shortcode to your php template file using 
+Call shortcode to your php template file ,using 
 `
  <?php echo do_shortcode('[vertical-carousel-slider]'); ?> 
 `
