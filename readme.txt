@@ -10,7 +10,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=amu02.af
 
 == Description ==
 Display vertical carousel slider with the help of a shortcode.
-Using shortcode ['vertical-carousel-slider'] , we can show carousel slider on page.
+Using shortcode [vertical-carousel-slider] , we can show carousel slider on page.
 
 <strong>Plugin Features</strong>
 
