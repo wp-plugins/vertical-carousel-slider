@@ -3,7 +3,7 @@
  * Plugin Name: Vertical Carousel slider
  * Plugin URI: https://aftabhusain.wordpress.com/
  * Description: Display vertical carousel slider with the help of a shortcode.
- * Version: 1.0.0
+ * Version: 1.0.2
  * Author: Aftab Husain
  * Author URI: https://aftabhusain.wordpress.com/
  * License: GPLv2
@@ -49,8 +49,12 @@ add_filter('manage_posts_columns', 'wpvc_add_post_thumbnail_column', 2);
 	
 // Add the column
 function wpvc_add_post_thumbnail_column($cols){
-  $cols['wpvc_logo_thumb'] = __('Carousel Image');
-  return $cols;
+	global $post;
+	$pst_type=$post->post_type;
+		if( $pst_type == 'vertical-carousel'){ 
+        $cols['wpvc_logo_thumb'] = __('Carousel Image');
+		}
+        return $cols;
 }
 
 // Hook into the posts an pages column managing. Sharing function callback again.

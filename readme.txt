@@ -30,7 +30,17 @@ Using shortcode [vertical-carousel-slider] , we can show carousel slider on page
 1. No technical skills needed.
 
 == Changelog ==
-This is first version no known errors found
+
+= 1.0.2 =
+* Bug fixes
+* Update readme.txt
+
+= 1.0.1 =
+* Bug fixes
+* Update readme.txt
+
+= 1.0.0 =
+* Initial release
 
 == Upgrade Notice == 
 This is first version no known notices yet
